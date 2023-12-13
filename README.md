@@ -26,6 +26,7 @@ In the Extensions view, type "Playwright" in the search bar.
 
 ![Search for Playwright](https://i.imgur.com/YWYlpMC.png)
 
+
 ## Step 5: Install Playwright for VS Code
 
 Locate the "Playwright Test" extension in the search results and click the "Install" button.
