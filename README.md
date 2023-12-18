@@ -76,4 +76,7 @@ Locate the "Playwright Test" extension in the search results and click the "Inst
 
 ![Run](https://i.imgur.com/L7dWVIi.png).
 
+## Note
+Make sure Docker is running metabase to pass all the GUI test cases
 
+Happy Testing!
